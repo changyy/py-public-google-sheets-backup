@@ -1,6 +1,7 @@
 # py-public-google-sheets-backup
 
 ![PyPI](https://img.shields.io/pypi/v/public-google-sheets-backup.svg)
+[![PyPI Downloads](https://static.pepy.tech/badge/public-google-sheets-backup)](https://pepy.tech/projects/public-google-sheets-backup)
 
 Python tool for effortless backup and export of public Google Sheets without authentication. Supports CSV and TSV formats.
 
